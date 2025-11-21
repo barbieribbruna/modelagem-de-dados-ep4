@@ -22,6 +22,10 @@ Chaves:
 
 O modelo foi **normalizado até a 3FN**, conforme comprovado na EP3.
 
+## 🧩 DER Revisado (Normalizado até 3FN)
+
+![DER Revisado](./img/DER_revisado_3FN.png)
+
 ## 🧰 Tecnologias
 
 - **SGBD**: MySQL
